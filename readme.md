@@ -10,4 +10,4 @@
 - 🚀 **I thrive on solving complex problems** and turn them into clean and scalable code
 - 👯 Open to collaborating on **open-source projects** (especially Django/React, REST APIs, or Rust).
 - 🤔 Looking for help with **above mentioned topics**
-- 📫 How to reach me: twitter: [@joegsuero](https://twitter.com/joegsuero), linkedin [@joegsuero](https://www.linkedin.com/in/joegsuero/)
+- 📫 How to reach me: X/Twitter: [@joegsuero](https://x.com/joegsuero), Linkedin [@joegsuero](https://www.linkedin.com/in/joegsuero/)
