@@ -2,9 +2,9 @@
 
 **FullStack Developer | Django & React Specialist | Rust Enthusiast**
 
-[![My Blog](https://img.shields.io/badge/joegsuero-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@joegsuero)](https://medium.com/@joegsuero)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/joegsuero/)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat)](mailto:joegsuero@gmail.com)
+[![Medium](https://img.shields.io/badge/joegsuero-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@joegsuero)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/joegsuero)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joegsuero@gmail.com)
 
 - 🔭 I’m a **Software Engineer** building scalable web apps with **Django REST + React/TypeScript and lastly with Rust**.
 - 🚀 **I thrive on solving complex problems** and turn them into clean and scalable code
