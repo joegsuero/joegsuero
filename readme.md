@@ -8,6 +8,6 @@
 
 - 🔭 I’m a **Software Engineer** building scalable web apps with **Django REST + React/TypeScript and lastly with Rust**.
 - 🚀 **I thrive on solving complex problems** and turn them into clean and scalable code
-- 👯 Open to collaborating on **open-source projects** (especially Django/React, REST APIs, or Rust).
-- 🤔 Looking for help with **above mentioned topics**
-- 📫 How to reach me: X/Twitter: [@joegsuero](https://x.com/joegsuero), Linkedin [@joegsuero](https://www.linkedin.com/in/joegsuero/)
+- 🤝 Open to collaborating on **open-source projects** (especially Django/React, REST APIs, or Rust).
+- 🤔 Looking for help with **above mentioned topics**? You can contact me.
+- 📫 How to reach me: X/Twitter: [@joegsuero](https://x.com/joegsuero), Linkedin [@joegsuero](https://www.linkedin.com/in/joegsuero/) Email [@joegsuero](mailto:joegsuero@gmail.com)
