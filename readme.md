@@ -27,8 +27,7 @@ I architect **high-performance systems** that bridge development and infrastruct
 ✔ **Full-Stack Mastery**: Backend (Python/Node), Frontend (TypeScript), and DevOps pipelines.  
 ✔ **Cloud-Native Solutions**: AWS, Docker, and Kubernetes for scalable deployments.  
 ✔ **Clean Architecture**: Code that scales — maintainable, tested, and documented.  
-✔ **DevOps Automation**: CI/CD, monitoring, and infrastructure-as-code practices.  
-✔ **Technical Translator**: Align complex systems with business goals clearly.
+✔ **DevOps Automation**: CI/CD, monitoring, and infrastructure-as-code practices.
 
 ### 📬 Let's Collaborate!
 
