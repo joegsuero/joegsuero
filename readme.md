@@ -1,38 +1,34 @@
-### 👋 Hi, I'm José García Suero
+# José García Suero
+### Senior Full-Stack Engineer & Software Architect
 
-**Full-Stack Engineer | Python & TypeScript Specialist | Cloud & DevOps Enthusiast**
+Architecting scalable systems with a focus on **Performance**, **Cloud Infrastructure**, and **Applied AI**. I bridge the gap between complex backend logic and seamless user experiences.
 
 [![Medium](https://img.shields.io/badge/joegsuero-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@joegsuero)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/joegsuero)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joegsuero@gmail.com)
 
-### 🛠 Technical Expertise
 
-- **Backend**: Python (Django, FastAPI), Node.js, REST/GraphQL APIs, Microservices
-- **Frontend**: TypeScript (React, Next.js), State Management, Performance Optimization
-- **Mobile**: Flutter (Cross-Platform Apps)
-- **Infrastructure**: AWS, Docker, Kubernetes, CI/CD (GitHub Actions), Nginx, Linux
-- **Data**: PostgreSQL, MySQL, Geospatial (PostGIS), Scalable Architecture
+---
 
-### 📝 Featured Articles
+### 🛠️ Core Stack & Architecture
+- **Backend & Scaling:** Python (Django, FastAPI), Node.js, Microservices, PostgreSQL (PostGIS).
+- **Frontend & UX:** TypeScript, React, Next.js, Flutter.
+- **Infrastructure (DevOps):** AWS, Docker, Kubernetes, CI/CD Automation (GitHub Actions, Ansible).
+- **AI & Automation:** RAG Implementations, LLMs, Computer Vision (OpenCV).
 
-▶ [How To Make Your Django App 138x Faster: The Definitive Caching Guide You Need](https://python.plainenglish.io/how-to-make-your-django-app-138x-faster-the-definitive-caching-guide-you-need-bda791d95e0f)  
-▶ [Designing Efficient Django Models: A Deep Dive](https://python.plainenglish.io/designing-efficient-django-models-a-deep-dive-309fa3403f21)  
-▶ [Django Templates Unlocked: Craft Dynamic UIs Without a Frontend Framework](https://python.plainenglish.io/django-templates-unlocked-craft-dynamic-uis-without-a-frontend-framework-720aac99b285)
+---
 
-### 💡 Why Work With Me?
+### 📝 Featured Technical Writing
+*Deep dives into performance, security, and modern engineering.*
 
-I architect **high-performance systems** that bridge development and infrastructure:
+- ⚡ [**Django Performance (138x Faster)**](https://python.plainenglish.io/how-to-make-your-django-app-138x-faster-the-definitive-caching-guide-you-need-bda791d95e0f): Advanced caching strategies.
+- 🏗️ [**From Django to FastAPI**](https://joegsuero.medium.com/already-know-django-then-you-almost-know-fastapi-479639739c36): Mapping paradigms for modern Python ecosystems.
+- 🤖 [**Filling the Gaps in AI**](https://joegsuero.medium.com/filling-the-gaps-in-ai-part-1-b9560a63162a): Foundations of modern intelligence.
+- 🛡️ [**Web Security for Architects**](https://python.plainenglish.io/deep-dive-web-security-practical-guide-django-developers-sep-16-2025): Beyond the basics of Django security.
 
-✔ **Full-Stack Mastery**: Backend (Python/Node), Frontend (TypeScript), and DevOps pipelines.  
-✔ **Cloud-Native Solutions**: AWS, Docker, and Kubernetes for scalable deployments.  
-✔ **Clean Architecture**: Code that scales — maintainable, tested, and documented.  
-✔ **DevOps Automation**: CI/CD, monitoring, and infrastructure-as-code practices.
+---
 
-### 📬 Let's Collaborate!
+### 📫 Connect & Collaborate
+I’m always open to discussing high-scale architectures, AI integration, or technical leadership.
 
-Looking for a technical partner for your project? Reach out:
-
-- **Email**: [joegsuero@gmail.com](mailto:joegsuero@gmail.com)
-- **LinkedIn**: [Let’s discuss your idea](https://linkedin.com/in/joegsuero)
-- **Twitter/X**: [@joegsuero](https://x.com/joegsuero)
+[**LinkedIn**](https://linkedin.com/in/joegsuero) | [**Medium Blog**](https://joegsuero.medium.com) | [**Twitter/X**](https://x.com/joegsuero) | [**Email**](mailto:joegsuero@gmail.com)
